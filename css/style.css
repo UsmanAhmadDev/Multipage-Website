@@ -2852,7 +2852,7 @@ i {
 }
 .contact-us-form .form-inner {
 	max-width: 770px;
-	margin: 0 auto;
+	/* margin: 0 auto; */
 	padding-top: 60px;
 }
 .contact-us-form .form-inner form .f-field {
